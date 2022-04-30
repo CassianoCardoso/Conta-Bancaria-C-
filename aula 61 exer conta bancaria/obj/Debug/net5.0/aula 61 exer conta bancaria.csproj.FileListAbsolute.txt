@@ -1,0 +1,16 @@
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\bin\Debug\net5.0\aula 61 exer conta bancaria.exe
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\bin\Debug\net5.0\aula 61 exer conta bancaria.deps.json
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\bin\Debug\net5.0\aula 61 exer conta bancaria.runtimeconfig.json
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\bin\Debug\net5.0\aula 61 exer conta bancaria.runtimeconfig.dev.json
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\bin\Debug\net5.0\aula 61 exer conta bancaria.dll
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\bin\Debug\net5.0\aula 61 exer conta bancaria.pdb
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\aula 61 exer conta bancaria.csproj.AssemblyReference.cache
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\aula 61 exer conta bancaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\aula 61 exer conta bancaria.AssemblyInfoInputs.cache
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\aula 61 exer conta bancaria.AssemblyInfo.cs
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\aula 61 exer conta bancaria.csproj.CoreCompileInputs.cache
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\aula 61 exer conta bancaria.dll
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\refint\aula 61 exer conta bancaria.dll
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\aula 61 exer conta bancaria.pdb
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\aula 61 exer conta bancaria.genruntimeconfig.cache
+E:\CURSO C#  OO\aula 61 exer conta bancaria\aula 61 exer conta bancaria\obj\Debug\net5.0\ref\aula 61 exer conta bancaria.dll
